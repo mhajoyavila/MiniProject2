@@ -1,6 +1,12 @@
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
+
 body{
     max-width: 100%; 
     background-color: #FBF7F0;
+    /* font-family: "Roboto Mono", monospace;; */
 }
 
 header{
@@ -29,7 +35,8 @@ header{
 
 .nav-links li a {
   text-decoration: none;
-  font-family: 'Times New Roman', Times, serif;
+  /* font-family: 'Times New Roman', Times, serif; */
+  /* font-family: "Roboto Mono", monospace; */
   transition: color 0.3s;
 }
 
@@ -146,7 +153,7 @@ button{
   border: none;
   background: black;
   padding: 12px 30px;
-  border-radius: 30px;
+  border-radius: 50px;
   color: white;
   font-size: 15px;
   transition: .4s;

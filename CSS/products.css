@@ -1,8 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+
 body{
     max-width: 100%; 
- 
-    background-color: #FBF7F0;
+    background-color: #fffefb;
+    font-family: 'Poppins', sans-serif;
 }
+
+h2{
+    font-size: large;
+    font-weight: 300;
+}
+
 
 header{
     width: 100%;
@@ -12,7 +25,7 @@ header{
     align-items: center;
     padding: 10px 20px;
     border-radius: 5px;
-    margin-bottom: 10px;
+    margin-bottom: 40px;
 }
 
 .logo img {
@@ -29,7 +42,7 @@ header{
 
 .nav-links li a {
     text-decoration: none;
-    font-family: 'Times New Roman', Times, serif;
+    /* font-family: 'Times New Roman', Times, serif; */
     transition: color 0.3s;
 }
 
