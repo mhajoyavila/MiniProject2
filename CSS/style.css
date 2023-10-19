@@ -315,8 +315,7 @@ h4{
   font-style: italic;
 }
 
-.testimony .carousel-control-next,
-.carousel-control-prev {
+/* .testimony {
   display: flex;
   position: absolute;
   margin-right: -50px;
@@ -325,7 +324,7 @@ h4{
   width: 50px;
   height: 50px;
   top: 140px;
-}
+} */
 
 .blockquote-footer{
   padding-top: 10px;
